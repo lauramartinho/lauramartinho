@@ -11,12 +11,11 @@
   <img align="center" alt="laura-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
+  ##
   </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="laura-insta" height="20" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"> @devHitech
+ <a href="https://www.linkedin.com/in/laura-martinho-7b7708158/" target="_blank"><img  height="25" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank"></a> 
+ <a href="https://www.instagram.com/devhitech/" target="_blank"><img  height="25" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"></a> 
 </div>
-  </div>
-  <div style="display: inline_block"><br>
- <img align="center" alt="laura-linkedin" height="20" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"> https://www.linkedin.com/in/laura-martinho-7b7708158/
-</div>
+ 
  
