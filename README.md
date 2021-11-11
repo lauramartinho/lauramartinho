@@ -1,8 +1,8 @@
 ## Laura Martinho
 <div>
   <a href="https://github.com/lauramartinho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lauramartinho&show_icons=true&theme=blueberry&&hide=prs,issues&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lauramartinho&show_icons=true&theme=blueberry&&hide=prs,issues&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
