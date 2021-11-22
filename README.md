@@ -1,9 +1,9 @@
-## Laura Martinho 
+## 👩‍💻 Laura Martinho 
 ##### 🖱 *Computer Engineering Undergraduate at UFAM 
 ##### 🖱 Computer Vision (Computational Photography) Research and Development*
 ##
 ### Welcome to my Github!
-#### 👩‍💻 *Languages and Tools:* <div style="display: inline_block"><br> <img align="center" alt="laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="laura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="laura-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="laura-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> 
+#### 💻 *Languages and Tools:* <div style="display: inline_block"><br> <img align="center" alt="laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="laura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="laura-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="laura-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> 
 </div>
 
 <div>
