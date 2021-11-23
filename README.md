@@ -18,7 +18,7 @@
 </div>
     
 ##
-#### *Find me at:* <div style="display: inline_block"><br> <a href="https://www.linkedin.com/in/laura-martinho-7b7708158/" target="_blank"><img  height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank"></a>  <a href="https://www.instagram.com/clare.lab/" target="_blank"><img  height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"> <a href="https://github.com/Dino-Comp" target="_blank"> <img  height="30" width="30" src="https://user-images.githubusercontent.com/65466643/142951704-96c95b49-19ea-43ae-8b00-0866ba7b6be6.png" target="_blank">  </a> </div>
+#### *Find me at:* <div style="display: inline_block"><br> <a href="https://www.linkedin.com/in/laura-martinho-7b7708158/" target="_blank"><img  height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank"></a>  <a href="https://www.instagram.com/clare.lab/" target="_blank"><img  height="30" width="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"> <a href="https://github.com/Dino-Comp" target="_blank"> <img  height="30" width="30" src="https://user-images.githubusercontent.com/65466643/142951704-96c95b49-19ea-43ae-8b00-0866ba7b6be6.png" target="_blank">  </a>![Snake animation](https://github.com/lauramartinho/lauramartinho/blob/output/github-contribution-grid-snake.svg)
+  </div>
  
   
-
