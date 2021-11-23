@@ -8,14 +8,14 @@
 
 <div>
   <a href="https://github.com/lauramartinho">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 ## 
 #### 💻 *Some of my Repos:*
   <div>
   <a href="https://github.com/lauramartinho">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Livro-De-Receitas&theme=blueberry"/> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=blueberry"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Livro-De-Receitas&theme=react"/> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/>
 </div>
     
 ##
