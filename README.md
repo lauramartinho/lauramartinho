@@ -14,7 +14,7 @@
 ## 
 #### 💻 *Some of my Repos:*
   <div>
-  <a href="https://github.com/Livro-De-Receitas"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Livro-De-Receitas&theme=react"/> <a href="https://github.com/Revelacao-Digital-Fotografias"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/>
+  <a href="https://github.com/lauramartinho/Livro-de-Receitas"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Livro-De-Receitas&theme=react"/> <a href="https://github.com/lauramartinho/Revelacao-Digital-Fotografias"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/>
 </div>
     
 ##
