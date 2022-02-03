@@ -8,13 +8,13 @@
 
 <div>
   <a href="https://github.com/lauramartinho">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=react"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramartinho&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 ## 
 #### 💻 *Some of my Repos:*
   <div>
-  <a href="https://github.com/lauramartinho/Revelacao-Digital-Fotografias"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/> <a href="https://github.com/lauramartinho/Notes-App"> <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Notes-App&theme=react"/>
+  <a href="https://github.com/lauramartinho/Halide-Image-Processing"> <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Halide-Image-Processing&theme=react"/> <a href="https://github.com/lauramartinho/Notes-App"> <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Notes-App&theme=react"/> <a href="https://github.com/lauramartinho/Revelacao-Digital-Fotografias"> <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/> 
 </div>
     
 ##
