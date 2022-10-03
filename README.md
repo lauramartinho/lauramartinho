@@ -14,7 +14,13 @@
 ## 
 #### 💻 *Some of my Repos:*
   <div>
-  <a href="https://github.com/lauramartinho/Halide-Image-Processing"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Halide-Image-Processing&theme=react"/>  <a href="https://github.com/lauramartinho/Revelacao-Digital-Fotografias"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/> <a href="https://github.com/lauramartinho/Underwater-image-enhancement-based-on-fusion-of-intensity-transformation-techniques"> <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Underwater-image-enhancement-based-on-fusion-of-intensity-transformation-techniques&theme=react"/>
+  <a href="https://github.com/lauramartinho/Halide-Image-Processing"> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Halide-Image-Processing&theme=react"/> 
+  <a href="https://github.com/lauramartinho/Underwater-image-enhancement-based-on-fusion-of-intensity-transformation-techniques">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Underwater-image-enhancement-based-on-fusion-of-intensity-transformation-techniques&theme=react"/>
+  <a href="https://github.com/lauramartinho/Revelacao-Digital-Fotografias"> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lauramartinho&repo=Revelacao-Digital-Fotografias&theme=react"/> 
+  
 </div>
     
 ##
